@@ -1,0 +1,20 @@
+type: code
+files:
+- name: task.js
+  visible: true
+  text: |-
+    let data = 1000;
+
+    function getData(data) {
+      console.log(data);
+    }
+
+    getDetails();
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8569
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8569">JetBrains
+    Academy</a></html>
+  time: Fri, 26 Jun 2020 15:58:08 UTC
+record: -1
